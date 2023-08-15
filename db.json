@@ -1,0 +1,351 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Post",
+      "body": "This is the content of the first post.",
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "title": "Second Post",
+      "body": "This is the content of the second post.",
+      "authorId": 2
+    },
+    {
+      "id": 3,
+      "title": "Amazing Day",
+      "body": "Spent the day hiking in the mountains.",
+      "authorId": 3
+    },
+    {
+      "id": 4,
+      "title": "New Recipe",
+      "body": "Tried a new recipe today and it turned out delicious!",
+      "authorId": 4
+    },
+    {
+      "id": 5,
+      "title": "Travel Adventure",
+      "body": "Explored a new city and had the best time.",
+      "authorId": 5
+    },
+    {
+      "id": 6,
+      "title": "Book Recommendation",
+      "body": "Just finished reading an amazing book. Highly recommend!",
+      "authorId": 6
+    },
+    {
+      "id": 7,
+      "title": "Fitness Journey",
+      "body": "Started a new fitness routine and feeling great.",
+      "authorId": 7
+    },
+    {
+      "id": 8,
+      "title": "Coding Challenge",
+      "body": "Took on a challenging coding project and succeeded!",
+      "authorId": 8
+    },
+    {
+      "id": 9,
+      "title": "Movie Night",
+      "body": "Watched a classic movie last night. Such a great film.",
+      "authorId": 9
+    },
+    {
+      "id": 10,
+      "title": "Nature Photography",
+      "body": "Captured some stunning nature shots during a hike.",
+      "authorId": 10
+    },
+        {
+      "id": 11,
+      "title": "Travel Memories",
+      "body": "Reflecting on the incredible moments from my recent trip.",
+      "authorId": 11
+    },
+    {
+      "id": 12,
+      "title": "Tech Talk",
+      "body": "Discussing the latest trends in technology.",
+      "authorId": 12
+    },
+    {
+      "id": 13,
+      "title": "Fitness Update",
+      "body": "Tracking my progress and celebrating small wins.",
+      "authorId": 13
+    },
+    {
+      "id": 14,
+      "title": "Movie Recommendations",
+      "body": "Sharing my top movie picks for the weekend.",
+      "authorId": 14
+    },
+    {
+      "id": 15,
+      "title": "Artistic Creations",
+      "body": "Showcasing my latest art pieces and creative projects.",
+      "authorId": 15
+    },
+    {
+      "id": 16,
+      "title": "Recipe Experiment",
+      "body": "Trying out a new recipe and documenting the results.",
+      "authorId": 16
+    },
+    {
+      "id": 17,
+      "title": "Personal Growth",
+      "body": "Embracing challenges and focusing on self-improvement.",
+      "authorId": 17
+    },
+    {
+      "id": 18,
+      "title": "Book Club Discussion",
+      "body": "Engaging in a thoughtful conversation about our current read.",
+      "authorId": 18
+    },
+    {
+      "id": 19,
+      "title": "Outdoor Adventures",
+      "body": "Exploring nature's beauty through outdoor activities.",
+      "authorId": 19
+    },
+    {
+      "id": 20,
+      "title": "Coding Challenges",
+      "body": "Solving coding puzzles and enhancing problem-solving skills.",
+      "authorId": 20
+    }
+
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "text": "Great post!"
+    },
+    {
+      "id": 2,
+      "postId": 1,
+      "text": "I enjoyed reading this."
+    },
+    {
+      "id": 3,
+      "postId": 2,
+      "text": "Looking forward to more content."
+    },
+    {
+      "id": 4,
+      "postId": 2,
+      "text": "Keep up the good work."
+    },
+    {
+      "id": 5,
+      "postId": 3,
+      "text": "Hiking is so much fun!"
+    },
+    {
+      "id": 6,
+      "postId": 3,
+      "text": "I love mountains."
+    },
+    {
+      "id": 7,
+      "postId": 4,
+      "text": "Can you share the recipe?"
+    },
+    {
+      "id": 8,
+      "postId": 4,
+      "text": "I'm a foodie too!"
+    },
+    {
+      "id": 9,
+      "postId": 5,
+      "text": "Which city did you visit?"
+    },
+    {
+      "id": 10,
+      "postId": 5,
+      "text": "Traveling is life!"
+    },
+      {
+      "id": 11,
+      "postId": 11,
+      "text": "Your trip sounds amazing!"
+    },
+    {
+      "id": 12,
+      "postId": 11,
+      "text": "I'm inspired to travel now!"
+    },
+    {
+      "id": 13,
+      "postId": 12,
+      "text": "Tech is shaping the future."
+    },
+    {
+      "id": 14,
+      "postId": 12,
+      "text": "Exciting times ahead!"
+    },
+    {
+      "id": 15,
+      "postId": 13,
+      "text": "You're doing great!"
+    },
+    {
+      "id": 16,
+      "postId": 13,
+      "text": "Keep up the hard work."
+    },
+    {
+      "id": 17,
+      "postId": 14,
+      "text": "Looking forward to the movie night."
+    },
+    {
+      "id": 18,
+      "postId": 14,
+      "text": "I love movie recommendations."
+    },
+    {
+      "id": 19,
+      "postId": 15,
+      "text": "Your art is impressive!"
+    },
+    {
+      "id": 20,
+      "postId": 15,
+      "text": "Artistic talent at its best."
+    }
+
+  ],
+  "profiles": [
+    {
+      "id": 1,
+      "userId": 1,
+      "username": "john_doe",
+      "bio": "Avid reader and writer."
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "username": "jane_smith",
+      "bio": "Exploring the world one step at a time."
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "username": "hiker_girl",
+      "bio": "Nature lover and adventurer."
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "username": "foodie_chef",
+      "bio": "Cooking is my passion."
+    },
+    {
+      "id": 5,
+      "userId": 5,
+      "username": "wanderlust_traveler",
+      "bio": "Discovering new places around the world."
+    },
+    {
+      "id": 6,
+      "userId": 6,
+      "username": "bookworm_reader",
+      "bio": "Books are my companions."
+    },
+    {
+      "id": 7,
+      "userId": 7,
+      "username": "fitness_enthusiast",
+      "bio": "Dedicated to a healthy lifestyle."
+    },
+    {
+      "id": 8,
+      "userId": 8,
+      "username": "code_ninja",
+      "bio": "Coding my way to success."
+    },
+    {
+      "id": 9,
+      "userId": 9,
+      "username": "movie_buff",
+      "bio": "Movies are my escape."
+    },
+    {
+      "id": 10,
+      "userId": 10,
+      "username": "nature_photographer",
+      "bio": "Capturing the beauty of nature through my lens."
+    },
+        {
+      "id": 11,
+      "userId": 11,
+      "username": "wanderer_at_heart",
+      "bio": "Adventuring through life's journey."
+    },
+    {
+      "id": 12,
+      "userId": 12,
+      "username": "tech_enthusiast",
+      "bio": "Exploring the frontiers of technology."
+    },
+    {
+      "id": 13,
+      "userId": 13,
+      "username": "fit_life",
+      "bio": "Fitness is my lifestyle."
+    },
+    {
+      "id": 14,
+      "userId": 14,
+      "username": "movie_critique",
+      "bio": "Analyzing movies one frame at a time."
+    },
+    {
+      "id": 15,
+      "userId": 15,
+      "username": "artistic_soul",
+      "bio": "Expressing emotions through art."
+    },
+    {
+      "id": 16,
+      "userId": 16,
+      "username": "culinary_adventurer",
+      "bio": "Exploring the culinary world."
+    },
+    {
+      "id": 17,
+      "userId": 17,
+      "username": "self_growth",
+      "bio": "Evolving into the best version of myself."
+    },
+    {
+      "id": 18,
+      "userId": 18,
+      "username": "bookworm_club",
+      "bio": "Connecting over shared literary interests."
+    },
+    {
+      "id": 19,
+      "userId": 19,
+      "username": "nature_wanderer",
+      "bio": "Seeking solace in nature's embrace."
+    },
+    {
+      "id": 20,
+      "userId": 20,
+      "username": "code_mastermind",
+      "bio": "Decoding complex challenges."
+    }
+
+  ]
+}
